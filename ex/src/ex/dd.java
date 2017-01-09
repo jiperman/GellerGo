@@ -1,5 +1,6 @@
 package ex;
 
-public class dd {
+public class dd 
+{
 
 }
