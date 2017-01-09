@@ -1,2 +1,3 @@
-# gellergo
-study
+# Capston Project
+
+## 빡세
